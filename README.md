@@ -31,46 +31,46 @@
 <table>
   <tr>
     <td width="50%">
-      <h3 align="center">⚡ QuantumTrade AI Arbitrage Engine</h3>
+      <h3 align="center"><a href="https://github.com/suhailahmed-dev/ZainForexAutoBot-MT5-Gold">🥇 ZainForexAutoBot (XAU/USD Gold)</a></h3>
+      <p align="center"><i>Exness MT5 Quantitative Scalping & Risk Engine</i></p>
+      <ul>
+        <li><b>Performance:</b> <code>75.0% Verified Win Rate</code> (18W / 6L forward-tested on Exness #108821).</li>
+        <li><b>Risk Architecture:</b> Strict 1.0% dynamic equity budgeting, anti-martingale, and daily circuit breakers.</li>
+        <li><b>Regime Intelligence:</b> M5 scalp triggers with M15 POI confirmation and native MT5 Economic Calendar blackout.</li>
+      </ul>
+      <p align="center"><code>MQL5</code> • <code>MetaTrader 5</code> • <code>Exness API</code> • <code>Python Automation</code></p>
+    </td>
+    <td width="50%">
+      <h3 align="center"><a href="https://github.com/suhailahmed-dev/APEX-Marketing-AI-CommandCenter">⚡ APEX Marketing AI Command Center</a></h3>
+      <p align="center"><i>Autonomous 15-Agent Multi-Channel Growth Engine</i></p>
+      <ul>
+        <li><b>Multi-Platform:</b> Automated viral hooks, captions, and calendars for <b>Instagram, Facebook, LinkedIn, Twitter/X</b>.</li>
+        <li><b>15 Specialized Agents:</b> SEO Architect, High-ROAS Ad Studio, VSL Copywriting, and 30-Day Content Roadmaps.</li>
+        <li><b>Command Dashboard:</b> Dark-mode real-time UI with SQLite persistent history and Cloudflare tunnel sharing.</li>
+      </ul>
+      <p align="center"><code>Python</code> • <code>Google Gemini 2.0</code> • <code>SQLite</code> • <code>REST / WebSockets</code></p>
+    </td>
+  </tr>
+  <tr>
+    <td width="50%">
+      <h3 align="center"><a href="https://github.com/suhailahmed-dev/QuantumTrade-AI-Bot">⚡ QuantumTrade AI Arbitrage Engine</a></h3>
       <p align="center"><i>Algorithmic Crypto & Forex High-Frequency Bot</i></p>
       <ul>
-        <li><b>Performance:</b> <code>+384.2% APY</code> backtest returns with strict 1:3 risk-to-reward ratio.</li>
+        <li><b>Performance:</b> <code>+384.2% APY</code> backtested returns with strict 1:3 risk-to-reward ratio.</li>
         <li><b>Latency:</b> Sub-14ms order execution via Binance / CCXT WebSockets.</li>
         <li><b>Strategy:</b> RSI + MACD divergence convergence with dynamic trailing stop-loss capital protection.</li>
       </ul>
       <p align="center"><code>Python 3</code> • <code>CCXT</code> • <code>WebSockets</code> • <code>NumPy</code> • <code>Binance API</code></p>
     </td>
     <td width="50%">
-      <h3 align="center">🎬 Faceless Video Autopilot</h3>
-      <p align="center"><i>Zero-Touch Neural Viral Video Pipeline</i></p>
+      <h3 align="center"><a href="https://github.com/suhailahmed-dev/Faceless-Video-Autopilot">🎬 Faceless Video Autopilot</a></h3>
+      <p align="center"><i>4-Platform Autonomous Neural Video Pipeline</i></p>
       <ul>
+        <li><b>4-Platform Deployment:</b> Headless automated publishing directly to <b>YouTube Shorts, TikTok, Instagram Reels, Facebook</b>.</li>
         <li><b>Media Engine:</b> Multi-lingual Neural Speech Synthesis (Urdu, Roman Urdu, English) at 24kHz.</li>
         <li><b>Rendering:</b> FFmpeg 60FPS kinetic subtitle burning and video compositing.</li>
-        <li><b>Deployment:</b> Headless automated publishing directly to TikTok and Meta Reels.</li>
       </ul>
       <p align="center"><code>Python</code> • <code>FFmpeg</code> • <code>Edge-TTS</code> • <code>Playwright</code> • <code>Meta API</code></p>
-    </td>
-  </tr>
-  <tr>
-    <td width="50%">
-      <h3 align="center">🏢 Antigravity SiteSeller Engine</h3>
-      <p align="center"><i>Autonomous B2B Lead Scraper & Website Builder</i></p>
-      <ul>
-        <li><b>Lead Hunter:</b> Google Places scraper detecting high-intent local businesses missing websites.</li>
-        <li><b>Compiler:</b> Synthesizes instant mobile-responsive Tailwind landing page demos.</li>
-        <li><b>Outreach:</b> 1-Click WhatsApp personalized pitch automation leading to conversion.</li>
-      </ul>
-      <p align="center"><code>Node.js</code> • <code>Express</code> • <code>Tailwind CSS</code> • <code>Google Places API</code></p>
-    </td>
-    <td width="50%">
-      <h3 align="center">🧠 Omni-Channel Marketing AI Agent</h3>
-      <p align="center"><i>Gemini 2.0 Autonomous Growth Hub</i></p>
-      <ul>
-        <li><b>Reasoning:</b> Google Gemini 2.0 Flash Multimodal API orchestrating ad copy & campaign calendars.</li>
-        <li><b>Memory:</b> Persistent SQLite database storing schedule, CRM records, and conversions.</li>
-        <li><b>Telemetry:</b> Real-time analytics dashboard tracking CTR and campaign metrics.</li>
-      </ul>
-      <p align="center"><code>Gemini 2.0</code> • <code>Python</code> • <code>SQLite</code> • <code>REST APIs</code></p>
     </td>
   </tr>
 </table>
