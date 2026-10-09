@@ -53,14 +53,14 @@
   </tr>
   <tr>
     <td width="50%">
-      <h3 align="center"><a href="https://github.com/suhailahmed-dev/QuantumTrade-AI-Bot">⚡ QuantumTrade AI Arbitrage Engine</a></h3>
-      <p align="center"><i>Algorithmic Crypto & Forex High-Frequency Bot</i></p>
+      <h3 align="center"><a href="https://github.com/suhailahmed-dev/Sophi-Trading-Bot">⚡ SOPHI Institutional Crypto Engine</a></h3>
+      <p align="center"><i>Active Live Testnet • 14,000+ Executed Trades • 48H Soak Audit</i></p>
       <ul>
-        <li><b>Performance:</b> <code>+384.2% APY</code> backtested returns with strict 1:3 risk-to-reward ratio.</li>
-        <li><b>Latency:</b> Sub-14ms order execution via Binance / CCXT WebSockets.</li>
-        <li><b>Strategy:</b> RSI + MACD divergence convergence with dynamic trailing stop-loss capital protection.</li>
+        <li><b>Live Testing Status:</b> <code>🟡 Active Testnet Verification</code> on Binance multi-asset pairs.</li>
+        <li><b>Stress Test Audit:</b> Passed 48-hour continuous soak test with only <code>-1.37% max drawdown</code> (98.63% capital preserved).</li>
+        <li><b>Safety Controls:</b> Funded challenge drawdown limits, hard kill-switch, and multi-timeframe confluence signals.</li>
       </ul>
-      <p align="center"><code>Python 3</code> • <code>CCXT</code> • <code>WebSockets</code> • <code>NumPy</code> • <code>Binance API</code></p>
+      <p align="center"><code>Python 3.11</code> • <code>FastAPI</code> • <code>Binance WebSockets</code> • <code>AsyncIO</code> • <code>React VIP Terminal</code></p>
     </td>
     <td width="50%">
       <h3 align="center"><a href="https://github.com/suhailahmed-dev/Faceless-Video-Autopilot">🎬 Faceless Video Autopilot</a></h3>
