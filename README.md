@@ -24,19 +24,21 @@ I engineer autonomous multi-agent architectures, algorithmic trading risk engine
 
 ### Production Systems
 
-#### 01 / Trading Automation
-- **[ZainForexAutoBot-MT5-Gold](https://github.com/suhailahmed-dev/ZainForexAutoBot-MT5-Gold)**  
+#### 01 / Trading Automation (Proprietary Core — Private)
+- **ZainForexAutoBot-MT5-Gold** `[PROPRIETARY CORE // PRIVATE]`  
   *Exness MT5 Quantitative Gold (XAU/USD) Scalping & Risk Engine*  
   - **Status:** Active Live Forward-Testing (`Exness #108821`)
   - **Verified Metrics:** 75.0% Win Rate (18 Wins / 6 Losses forward-tested)
   - **Risk Architecture:** 1.0% dynamic equity cap, M15 Point of Interest confirmation, and US economic calendar news blackout shield.
+  - **Access:** Private repository. Architecture documented on [Portfolio](https://suhailahmed-dev.github.io/portfolio/#systems). Demo available on request.
   - **Stack:** MQL5, MetaTrader 5, Python 3, Exness API
 
-- **[Sophi-Trading-Bot](https://github.com/suhailahmed-dev/Sophi-Trading-Bot)**  
+- **SOPHI-Trading-Bot** `[PROPRIETARY CORE // PRIVATE]`  
   *Multi-Asset Institutional Algorithmic Crypto Trading Engine*  
   - **Status:** Active Binance Testnet Validation (8 Pairs: BTC, ETH, SOL, BNB, AVAX, XRP, ADA, DOGE)
   - **Verified Metrics:** 14,323 real executed trades logged; passed 48-hour continuous stress soak test with only -1.37% maximum drawdown (98.63% capital preserved).
   - **Risk Architecture:** Funded challenge drawdown limits (4% daily max loss circuit breaker), persistent power loss monitor, and WebSocket auto-reconnect.
+  - **Access:** Private repository. Architecture documented on [Portfolio](https://suhailahmed-dev.github.io/portfolio/#systems). Audit review available on request.
   - **Stack:** Python 3.11, AsyncIO, FastAPI, Binance WebSockets, SQLite, React 18 Terminal
 
 #### 02 / Multi-Agent & Business Systems
