@@ -54,6 +54,18 @@ I engineer autonomous multi-agent architectures, algorithmic trading risk engine
   - **Capabilities:** Zero-touch vertical video pipeline: automated script generation, 24kHz neural speech synthesis (Urdu, Roman Urdu, English), FFmpeg 60FPS kinetic subtitle burning, and headless upload to TikTok, YouTube Shorts, Instagram Reels, and Facebook.
   - **Stack:** Python 3, FFmpeg, Playwright, Edge-TTS, AsyncIO
 
+- **[SiteSeller-Lead-Engine](https://github.com/suhailahmed-dev/SiteSeller-Lead-Engine)**  
+  *Autonomous Client Acquisition, Maps Prospecting & Dynamic Landing Page Engine*  
+  - **Status:** Production Operational
+  - **Capabilities:** Autonomous local business discovery via Maps POIs, dynamic tailored demo website generation for un-indexed businesses, and direct WhatsApp / email outreach dispatch.
+  - **Stack:** Node.js, Express, Google Places API, Tailwind CSS, Cloudflare
+
+- **[Zain-AI-Enterprise-Commander](https://github.com/suhailahmed-dev/Zain-AI-Enterprise-Commander)**  
+  *Central Command Center & Multi-Department Autonomous Supervisor*  
+  - **Status:** Production Operational
+  - **Capabilities:** Unified enterprise event bus supervising 4 operational departments (Content & Media, Quant Trading, Lead Acquisition, Systems Architecture) with real-time status telemetry and automated voice announcements.
+  - **Stack:** Python 3, FastAPI, WebSockets, JavaScript, pyttsx3, Tailwind CSS
+
 ---
 
 ### Functional Technical Stack
