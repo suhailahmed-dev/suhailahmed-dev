@@ -39,13 +39,7 @@ My background bridges solid software fundamentals (**PHP, MySQL, JavaScript, OOP
 
 ### Featured Projects & Verified Codebases
 
-#### 🏫 Institutional & Web Applications
-
-* **[DotCom Elite — Multi-Campus Institute Management Platform](https://suhailahmed-dev.github.io/portfolio/#projects)**  
-  *Institutional administration and public portal built for DotCom Institute of I.T. (Hyderabad, Pakistan).*
-  * **What it does:** Solves multi-campus operational fragmentation by providing a unified public portal, centralized MySQL database, one Super Admin dashboard, and three isolated Campus Admin portals for admissions, staff management, and course listings.
-  * **Highlights:** Clean PHP architecture without heavy framework bloat, SQL migrations, `.env` configuration, secure authentication, and student exam result processing.
-  * **Stack:** `PHP` • `MySQL/MariaDB` • `JavaScript` • `Bootstrap/CSS` • `Apache`
+#### 🏫 Web Applications & Platforms
 
 * **[Secure Intelligent Online Assessment System](https://suhailahmed-dev.github.io/portfolio/#projects)**  
   *Automated skill development and examination platform featuring active integrity safeguards.*
