@@ -4,7 +4,7 @@
 
 <p align="center">
   <a href="https://suhailahmed-dev.github.io/portfolio/"><img src="https://img.shields.io/badge/LIVE_INTERACTIVE_PORTFOLIO-080C14?style=for-the-badge&logo=train&logoColor=14B8A6&labelColor=080C14" alt="Live Portfolio"></a>
-  <a href="https://www.linkedin.com/in/suhail-buledi-274716312/"><img src="https://img.shields.io/badge/LINKEDIN-080C14?style=for-the-badge&logo=linkedin&logoColor=0A66C2&labelColor=080C14" alt="LinkedIn"></a>
+  <a href="https://www.linkedin.com/in/suhailahmed-dev/"><img src="https://img.shields.io/badge/LINKEDIN-080C14?style=for-the-badge&logo=linkedin&logoColor=0A66C2&labelColor=080C14" alt="LinkedIn"></a>
   <a href="https://wa.me/923093174020"><img src="https://img.shields.io/badge/WHATSAPP_DIRECT-080C14?style=for-the-badge&logo=whatsapp&logoColor=25D366&labelColor=080C14" alt="WhatsApp"></a>
   <a href="mailto:sohailbuledi84@gmail.com"><img src="https://img.shields.io/badge/DIRECT_EMAIL-080C14?style=for-the-badge&logo=gmail&logoColor=EA4335&labelColor=080C14" alt="Email"></a>
   <a href="https://suhailahmed-dev.github.io/portfolio/#projects"><img src="https://img.shields.io/badge/VERIFIED_ALGO_STATS-080C14?style=for-the-badge&logo=chartdotjs&logoColor=38BDF8&labelColor=080C14" alt="Algo Stats"></a>
