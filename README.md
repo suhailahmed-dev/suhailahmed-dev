@@ -74,6 +74,11 @@ I engineer resilient, database-backed web architectures, high-performance automa
 
 #### 2. 🤖 Autonomous AI & Multi-Agent Systems
 
+* **[Nexus AI — Multi-Channel Voice & WhatsApp Sales Agent](https://github.com/suhailahmed-dev/Nexus-AI-MultiChannel-Agent)**
+  * **Architecture:** Multi-tenant AI voice receptionist and sales capture platform featuring an interactive Web Audio voice calling lab, WhatsApp Cloud API webhooks, automated Google Sheets CRM synchronization, and an agency 7-day trial onboarding funnel.
+  * **Capabilities:** Handles zero-latency telephone appointment booking (dental clinics, luxury Dubai real estate, orthodontics), structured lead extraction, trial countdown gating, and fallback rule engine.
+  * **Stack:** `Node.js` • `Express` • `Google Gemini API` • `WhatsApp Cloud Webhooks` • `Web Speech API` • `Google Sheets Webhooks`
+
 * **[APEX Marketing AI Command Center](https://github.com/suhailahmed-dev/APEX-Marketing-AI-CommandCenter)**
   * **Architecture:** Enterprise multi-agent content generation and marketing intelligence engine orchestrating 15 specialized prompt agent personas (Strategy, Copywriting, SEO, Analytics, Viral Hooks).
   * **Capabilities:** Eliminates generic AI output by routing prompts through a multi-pass refinement pipeline, generating 30-day cross-channel roadmaps, high-converting hooks, and data-backed ad variations.
